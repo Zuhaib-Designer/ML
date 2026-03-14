@@ -12,6 +12,3 @@ elif name == Professor:
     print("Greetings Professor Falcon!")
 
 print("Program Finished")
-
-print("cat">"Dog")
-print("cat"<"Dog")
